@@ -16,6 +16,7 @@ The accuracy (when I tested the model on test set) converged to 84% after the la
 Confusion Matrix :
 
 1521  74
+
 242   163
 
 Accuracy = 84.2%, which is pretty good considering the fact that I didn't use any kind of parameter tuning.
