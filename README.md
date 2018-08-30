@@ -1,2 +1,2 @@
 # learning-deep
-My first ever neural network model.
+Just some of the DL stuff.
